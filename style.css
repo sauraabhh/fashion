@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'FF Good Pro Black' ;
-    src: url(./font\ \(1\).zip);
+    font-family: 'FF Good Pro Black' , 'Linotype Didot Std' , "DidotLH-Roman";
+    src: url(./font\ \(1\));
 }
 *{
     margin: 0;
