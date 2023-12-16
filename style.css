@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'FF Good Pro Black' ;
+    src: url(./font\ \(1\).zip);
+}
 *{
     margin: 0;
     padding: 0;
